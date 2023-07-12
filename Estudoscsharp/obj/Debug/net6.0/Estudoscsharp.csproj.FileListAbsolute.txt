@@ -1,0 +1,15 @@
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\bin\Debug\net6.0\Estudoscsharp.exe
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\bin\Debug\net6.0\Estudoscsharp.deps.json
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\bin\Debug\net6.0\Estudoscsharp.runtimeconfig.json
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\bin\Debug\net6.0\Estudoscsharp.dll
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\bin\Debug\net6.0\Estudoscsharp.pdb
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.csproj.AssemblyReference.cache
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.AssemblyInfoInputs.cache
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.AssemblyInfo.cs
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.csproj.CoreCompileInputs.cache
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.dll
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\refint\Estudoscsharp.dll
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.pdb
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\Estudoscsharp.genruntimeconfig.cache
+C:\Users\thais.spinoza\source\repos\Estudoscsharp\Estudoscsharp\obj\Debug\net6.0\ref\Estudoscsharp.dll
